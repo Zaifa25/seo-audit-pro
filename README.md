@@ -1,5 +1,6 @@
 # SEO Audit Pro
 
+<<<<<<< HEAD
 A professional Chrome Extension (Manifest V3) that performs a complete on-page SEO audit of any website in a single click — no backend, no tracking, everything runs locally in your browser.
 
 ## Overview
@@ -87,3 +88,28 @@ Only the minimum required permissions are requested: `activeTab`, `scripting`, `
 ## License
 
 MIT — free to use, modify, and distribute.
+=======
+A professional Chrome Extension built with React, Vite, Bootstrap 5, and Manifest V3 that analyzes the SEO health of any webpage.
+
+## Features
+
+- SEO Score
+- Meta Tags Analysis
+- Heading Structure
+- Image Audit
+- Open Graph Tags
+- Twitter Cards
+- Canonical URL
+- Robots Meta
+- Accessibility Checks
+- Security Checks
+- Export Reports
+
+## Technologies
+
+- React
+- Vite
+- Bootstrap 5
+- JavaScript
+- Chrome Extension Manifest V3
+>>>>>>> 40a2d0a5cd3a014b7363a0fbbff5af268e06d727
